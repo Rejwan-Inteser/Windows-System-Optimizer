@@ -5,8 +5,8 @@ This script provides a simple way to optimize your Windows system. It offers opt
 ## Usage
 
 1. **Download Script:** 
-   - Download the script: [windows_optimizer.cmd](windows_optimizer.cmd).
-2. **Run the Script:** Double-click `windows_optimizer.cmd` to run the script.
+   - Download the script or exe: [windows_optimizer.cmd](windows_optimizer.cmd) or [windows_optimizer.exe](windows_optimizer.exe).
+2. **Run the Script:** Double-click `windows_optimizer.cmd` or `windows_optimizer.exe` to run the file.
 3. **Select Options:** Follow the menu to choose an optimization option by entering the corresponding number.
 4. **Follow Instructions:** Follow any on-screen instructions to complete the selected operation.
 5. **Exit:** Press any key to exit the script when the operation is finished.
